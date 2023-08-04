@@ -1,0 +1,28 @@
+.this_details{
+    align-items: center;
+    text-align: center;
+}
+
+.this_details,#div_personal{
+    padding: 1rem;
+}
+.this_details,h2{
+    padding: 2rem 0rem;
+}
+#btn_personal{
+    margin: 2rem 0rem;
+}
+#btn_personal:hover{
+    background: red;
+    color: white;
+}
+/* #personal_details_input{
+text-align: center;
+align-items: center;
+
+} */
+label{
+    width: 240px;
+    display: inline-block;
+    margin: 0%;
+}

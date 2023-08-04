@@ -1,0 +1,17 @@
+.customer, tr{
+    border: 3px solid black;
+    border-spacing: 40px;
+    text-align: center;
+    width: 90%;
+    
+}
+.customertable, th, td {
+    border: 1px solid black;
+  }
+.customer, table{
+    width: 90%;
+    margin: 50px;
+  }
+.customer, #three{
+    background-image: linear-gradient(to right, #e7d7a8, #9f9fa0);
+  }

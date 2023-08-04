@@ -1,0 +1,106 @@
+ @import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&display=swap');
+
+.first{
+    text-align: center;
+    align-items: center;
+    /* padding: 20px 20px; */
+
+}
+.second{
+    text-align: center;
+    align-items: center;
+    /* padding: 20px 20px; */
+   
+}
+label{
+    text-align: center;
+    align-items: center;
+    /* margin: 35px; */
+    
+}
+h2{
+    align-items: center;
+    text-align: center;
+}
+.third{
+    text-align: center;
+    align-items: center;
+    display: block
+    
+}
+.jdx{
+    /* min-height: 90vh;
+    position: relative;
+    left: 34%;
+    bottom:1%; */
+    /* width: 30%; */
+    /* margin: 25px auto 0; */
+    /* background-color: rgb(253, 251, 251); */
+    background-image: linear-gradient(to top,#30cfd0 0%,#330867 100%);
+    border: none;
+    outline: none;
+    /* box-shadow: rgb(204,219,232)3px 3px 6px 0px inset,rgba(255,255,255,0.5)-3px -3px 6px 1px inset; */
+    width: 100%;
+    /* margin-bottom: 100px;
+    padding-bottom: 100px; */
+    
+}
+.third button{
+    font-family: 'Cormorant', serif;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 5px 40px;
+    background-color: white;
+    background:#ebd4ea;
+    border-style: none;
+}
+.third button:hover{
+    background-color: rgb(28, 196, 218);
+}
+
+.first input{
+    border-style: none;
+    padding: 5px;
+    border-radius: 3px;
+}
+.second input{
+    border-style: none;
+    padding: 5px;
+    border-radius: 3px;
+}
+.jdx, #mm{
+    color: white;
+    font-family: 'Cormorant', serif;
+    /* padding: 40px; */
+}
+.first {
+    color: white;
+    padding: 20px;
+}
+.second {
+    color: white;
+    padding: 20px;
+}
+#info{
+    text-align: center;
+    align-items: center;
+    padding: 9px;
+    margin-bottom: 42px;
+    
+}
+#info p{
+    color: white;
+}
+#info a{
+    color: rgb(255, 0, 115);
+}
+.f-1{
+    width: 100px;
+    font-family: 'Cormorant', serif;
+    text-transform: uppercase;
+}
+
+
+

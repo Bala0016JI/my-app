@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&display=swap');
+.szero{
+    background-image: linear-gradient(to top, #dbdcd7 0%, #dddcd7 24%, #e2c9cc 30%, #e7627d 46%, #b8235a 59%, #801357 71%, #3d1635 84%, #1c1a27 100%);
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding-bottom: 100px;
+    border-style: none;
+
+
+    
+}
+input{
+    font-family: 'Cormorant', serif;  
+}
+.sfirst{
+    text-align: center;
+    align-items: center;
+    padding: 20px 20px;
+    padding-right: 47px;
+}
+.ssecond{
+    text-align: center;
+    align-items: center;
+    padding: 10px 20px;
+}
+.sthird{
+    text-align: center;
+    align-items: center;
+    
+
+}
+.sthird button{
+    border-radius: 10px;
+    padding: 5px 40px;
+    background-color: white;
+    background:#2e2be2;
+    border-style: none;
+    margin-top: 20px;
+
+}
+#sid{
+    color: white;
+    padding: 20px;
+    font-family: 'Cormorant', serif;
+}
+.sfirst label{
+    color: white;
+}
+.ssecond label{
+    color: white;
+}
+.sfirst input{
+    border-style: none;
+    padding: 5px;
+    border-radius: 3px;
+}
+.ssecond input{
+    border-style: none;
+    padding: 5px;
+    border-radius: 3px;
+    margin-right: 28px;
+
+}
+.sfivth p{
+    color: #151513;
+    padding: 20px;
+}
+.sfivth a{
+    color: #b8235a;
+}
